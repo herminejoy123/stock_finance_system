@@ -1,0 +1,14 @@
+# Environment and sensitive files
+.env
+config/database.php
+
+# Database backups
+*.sql
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
